@@ -1,0 +1,18 @@
+{
+  "responses": [
+    {
+      "triggers": [
+        "purpose of Ramadan",
+        "what is Ramadan"
+      ],
+      "text": "Ramadan is the month of fasting in the Islamic calendar."
+    },
+    {
+      "triggers": [
+        "how to perform prayer",
+        "prayer steps"
+      ],
+      "text": "To perform prayer, you should follow these steps:\n1. Make intention (niyyah)\n2. Perform ablution (wudu)\n3. Face the direction of the Kaaba (Qiblah)\n4. Stand (if able)\n5. Recite the opening takbir (Allahu Akbar)\n6. Recite Surah Al-Fatihah\n7. Recite another surah or verses from the Quran\n8. Perform Ruku (bowing)\n9. Perform Sujud (prostration)\n10. Sit between two prostrations\n11. Repeat steps 8 to 10 two more times\n12. Perform Tashahhud (sitting for testimonial)\n13. Recite Salah (final tashahhud)\n14. End with salam (turning head to the right and then left)."
+    }
+  ]
+}
